@@ -4,7 +4,7 @@
 git-glory walks your git and counts the lines of code done by contributers
 then prints them out all pretty like.
 
-it's something i whipped up for a quick one off, may improve if im arsed.
+it's something i whipped up for a quick one off, may improve if im bothered.
 """
 
 import os
